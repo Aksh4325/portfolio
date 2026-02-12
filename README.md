@@ -1,66 +1,68 @@
 # Akshay Tiwari - Data Analyst Portfolio
 
-## 🚀 Advanced Features Implemented
+## # 👋 Hi, I'm Akshay Tiwari  
+**MCA Graduate | Result-Driven Data Analyst | Python • SQL • Power BI**
 
-### Interactive Elements
-- ✅ Animated particle background canvas
-- ✅ Custom cursor with trail effect
-- ✅ Glitch text effect on hero title
-- ✅ Typing animation for subtitle
-- ✅ Live counter animations for stats
-- ✅ Animated chart visualization in hero
-- ✅ Floating skill cards with physics
-- ✅ Tab-based skills filtering
-- ✅ 3D tilt effects on project cards
-- ✅ Smooth scroll reveal animations
-- ✅ Interactive form with validation
+Welcome to my portfolio! I'm a result-driven and detail-oriented Data Analyst with a Master of Computer Applications (MCA) degree and a strong foundation in data analytics, business intelligence, and statistical analysis.
 
-### Design Aesthetics
-- 🎨 Modern, data-driven color palette
-- 🎨 Custom font pairing (Sora + Space Mono + JetBrains Mono)
-- 🎨 Glassmorphism effects
-- 🎨 Gradient accents
-- 🎨 Micro-interactions on all elements
-- 🎨 Professional card-based layouts
+I specialize in transforming complex datasets into actionable insights that drive strategic business decisions and measurable outcomes.
 
-### Technical Implementation
-- 📱 Fully responsive (mobile-first design)
-- ⚡ Performance optimized
-- ♿ Accessibility features
-- 🎯 SEO optimized
-- 🔧 Clean, modular code structure
+---
 
-## 📂 Files
+## 🎓 Education
 
-- `index.html` - Main HTML structure with accurate information
-- `style.css` - Advanced styling with animations
-- `script.js` - Interactive JavaScript features
+🎓 Master of Computer Applications (MCA)  
+Strong academic background in Data Analytics, Database Management, and Software Development.
 
-## 🎯 All Information is 100% Accurate
+---
 
-Based on the provided README.md:
-- ✅ Correct name and title
-- ✅ MCA'25 and Placement Coordinator role
-- ✅ All 6 major projects with accurate descriptions
-- ✅ Correct tech stack and skills
-- ✅ All 5 certifications listed
-- ✅ Accurate achievement metrics
-- ✅ Professional expertise details
+## 🎯 Professional Summary
 
-## 🚀 How to Use
+As an MCA graduate, I bring hands-on experience in:
 
-1. Download all three files (index.html, style.css, script.js)
-2. Keep them in the same folder
-3. Open index.html in any modern browser
-4. Enjoy the interactive experience!
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- Interactive Dashboard Development  
+- SQL Query Optimization  
+- Predictive Modeling & Performance Analysis  
 
-## 💡 Pro Tips
+I focus on delivering data-backed insights that improve efficiency, enhance reporting accuracy, and support data-driven growth strategies.
 
-- The particle background is GPU-accelerated
-- All animations are CSS-based for best performance
-- Skills can be filtered by category
-- Project cards have 3D tilt on hover
-- Form includes client-side validation
-- Stats counter animates on scroll into view
+---
 
-Built with ❤️ and data-driven insights!
+## 🛠️ Technical Skills
+
+### 💻 Programming & Query Languages
+- Python  
+- SQL  
+
+### 📊 Data Analysis Libraries
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+
+### 📈 BI & Visualization Tools
+- Power BI  
+- Tableau  
+- Advanced Excel  
+
+### 🗄️ Databases
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+
+### 🤖 Machine Learning
+- Scikit-learn  
+- Statistical Modeling  
+
+---
+
+## 📫 Career Objective
+
+Seeking an opportunity as a Data Analyst / Business Intelligence Analyst where I can apply analytical expertise to solve real-world business problems and contribute to data-driven decision-making.
+
+---
+
+“Turning data into measurable business results.”
+
