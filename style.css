@@ -283,3 +283,49 @@ section { padding: var(--space-3xl) 0; position: relative; z-index: 1; }
     border: 5px solid white;
     box-shadow: 0 0 25px rgba(0, 255, 255, 0.4); /* soft glow */
 }
+.cert-card {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    transition: 0.4s ease;
+}
+
+.cert-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    border-color: var(--accent-color);
+}
+
+.cert-card h3 {
+    margin-bottom: 1rem;
+    color: var(--accent-color);
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+}
+
+.cert-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.cert-card li {
+    padding: 10px 0;
+    font-size: 0.95rem;
+    opacity: 0.85;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    transition: 0.3s ease;
+}
+
+.cert-card li:last-child {
+    border-bottom: none;
+}
+
+.cert-card li:hover {
+    padding-left: 8px;
+    color: var(--accent-color);
+}
